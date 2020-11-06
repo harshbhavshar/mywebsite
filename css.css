@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 322px;
+    height: 100%;
+    background:url('Bg.png') no-repeat;
+    border:1px solid black;
+   
+   
+}
+body h3{
+  
+font-family: Lucida Sans Unicode;
+font-style: italic;       
+}
+
+h1
+{
+font-family: Lucida Sans Unicode;
+}
+
+.text{
+margin-left: 20px;
+margin-top: -230px;
+text-transform: uppercase;
+font-weight: bold;
+
+}
+.img{
+padding-bottom: 20px;
+margin-top: -700px;
+margin-left: 80px;
+}
+
+.foot{
+    margin-top: 200px;
+    margin-left: 15px;
+    text-transform: capitalize;
+    margin-bottom:  50px;
+   
+}
+
+.bt,.bt2,.bt3{
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+.bt,.bt2{
+
+    margin-left: 50px;
+   
+
+}
+.bt,.bt3{
+    margin-top: -35px;
+}
+.bt3{
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.bt1{
+
+color: aliceblue;
+margin-top: -50px;
+margin-left: 50px;
+text-transform: uppercase;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+  }

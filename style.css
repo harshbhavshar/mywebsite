@@ -1,0 +1,126 @@
+body{
+ min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+}
+h2,h3{
+  text-transform: uppercase;
+}
+h3{
+  font-size: 25px;
+  font-family: Lucida Sans Unicode;
+  font-style: italic;
+}
+h1{
+font-family: Lucida Sans Unicode;
+}
+.perent-div{
+  width: 420px;
+  height: 900px;
+
+
+
+ background: url('Bg.png')  no-repeat;
+
+
+}
+.button{
+    margin-top: 100px;
+}
+.button1{
+  margin-left: 45px;
+  margin-top: 30px;
+
+}
+
+
+.text{
+margin-left: 10px;
+margin-top: -260px;
+
+}
+.text1{
+  margin-top:110px;
+  margin-left: 45px;
+}
+.text2{
+  margin-top:35px;
+  margin-left: 50px;
+}
+.img{
+  margin-left: 120px;
+margin-top: -500px;
+
+}
+.i{
+  margin-top: -40px;
+  margin-left: 45px;
+
+
+}
+.i1{
+    margin-left: 45px;
+}
+
+
+.icon{
+  height: 25px;
+  margin-left: 50px;
+  margin-top: -90px;
+}
+.pa,.pa1{
+
+  margin-left: 85px;
+
+
+  font-family: 'Baloo Tammudu 2', cursive;
+
+}
+.pa{
+  margin-top: -66px;
+}
+.p{
+  margin-left: 45px;
+
+  font-size:13px;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+.p a{
+  color: #ffa801;
+
+
+}
+.p1{
+  margin-top: -42px;
+  margin-left: 140px;
+  color: #fff;
+
+}
+
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+a{
+  color: #000;
+}
+input{
+  border:1px solid black;
+
+  background:#fff;
+  border-top-right-radius:10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+
+
+  margin-left: 45px;
+      width:310px;
+      height: 40px;
+
+
+
+}
